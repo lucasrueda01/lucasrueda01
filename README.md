@@ -81,6 +81,8 @@ Main contributions:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lucasrueda01)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrueda01&show_icons=true&theme=radical)
+
 ---
 
 # Contact
