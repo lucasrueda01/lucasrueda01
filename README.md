@@ -8,7 +8,7 @@ I have experience building SaaS applications, developing backend APIs, integrati
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - Full Stack Developer
 - University Programming Analyst (Intermediate Degree – 2026)
@@ -20,7 +20,7 @@ I have experience building SaaS applications, developing backend APIs, integrati
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 Java • Python • JavaScript • PHP
@@ -39,7 +39,7 @@ Linux • Git
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ### Full Stack Developer — Nuxon
 
@@ -77,13 +77,13 @@ Main contributions:
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=lucasrueda01)
 
 ---
 
-# 🌐 Contact
+# Contact
 
 LinkedIn  
 https://linkedin.com/in/lucas-laureano-rueda
